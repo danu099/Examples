@@ -12,7 +12,7 @@ public class main {
 		c1.weight = 45.3;
 		c1.no = 123;
 		
-		c1.speed();  //Call methods
+		c1.speed();  //Call methods from car class
 		c1.color();
 		c1.weight();
 		c1.name();
