@@ -4,7 +4,7 @@ public class main {
 
 	public static void main(String[] args) {
 		
-		car c1 = new car();  //create object
+		car c1 = new car();  //create new object
 		
 		c1.color = "Red";    //initialize attributes
 		c1.name = "Toyota";
